@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Mosquito/.vs/Mosquito.slnx
+/Mosquito/Mosquito/obj
+/Mosquito/Mosquito/bin/Debug/net8.0
